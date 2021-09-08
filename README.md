@@ -40,4 +40,9 @@ If you like trying different foods, try these which are from multiple cusines.
 | Naan | Curry Room | 3.72 $ |
 | Biryani | Kansas Godavari| 12 $|
 
+# Quotes that motivate me
 
+
+> "Practice makes man Perfect" - *MS Dhoni*
+
+>"Time and Tide wait for none" - *P Huges*
