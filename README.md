@@ -25,3 +25,19 @@ The **food** of Hyderabad is my favourite and **affordable** too.
 
 [Click here for AboutMe](AboutMe.md)
 
+
+
+---
+
+# Are you a foodie like me?
+
+If you like trying different foods, try these which are from multiple cusines.
+
+| Food | Location | Price |
+| ---- | -------  | ----  |
+| Paneer Butter Masala| Taj Tandoori |  5 $ |
+| Egg Bhurji | Clarks Kitchen  | 4.78 $ |
+| Naan | Curry Room | 3.72 $ |
+| Biryani | Kansas Godavari| 12 $|
+
+
