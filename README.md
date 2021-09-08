@@ -46,3 +46,34 @@ If you like trying different foods, try these which are from multiple cusines.
 > "Practice makes man Perfect" - *MS Dhoni*
 
 >"Time and Tide wait for none" - *P Huges*
+
+
+---
+
+# Code Fencing
+
+
+> **Dynamic** **programming** is both a mathematical optimization method and a computer programming method. The method was developed by Richard Bellman in the 1950s and has found applications in numerous fields, from aerospace engineering to economics.
+
+[To know more about this click here](https://en.wikipedia.org/wiki/Dynamic_programming)
+
+```
+static int fib(int n)
+    {
+    if (n <= 1)
+       return n;
+    return fib(n-1) + fib(n-2);
+    }
+      
+    public static void main (String args[])
+    {
+    int n = 9;
+    System.out.println(fib(n));
+    }
+
+```
+[Source of Code](https://www.geeksforgeeks.org/program-for-nth-fibonacci-number/)
+
+
+    
+
