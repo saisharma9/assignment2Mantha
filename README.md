@@ -17,3 +17,8 @@ The **food** of Hyderabad is my favourite and **affordable** too.
 3. Enjoy your travel
 4. Explore Delhi   
 
+# Items to be brought for maximum enjoyment
+
+* A kurta to visit Akshardham Mandir.
+* Indian Currency.
+* Camera.
